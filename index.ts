@@ -1,3 +1,5 @@
-let greet = "Good evening, have a nice day ahead"';
+let greet = "Good evening, have a nice day ahead";
 
-console.log(greet);
+let username = 'Ms zainab';
+
+console.log(greet + " " + username);
